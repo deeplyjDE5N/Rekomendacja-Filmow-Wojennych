@@ -8,9 +8,6 @@ Projekt szkolny — bez użycia bibliotek AI.
 - [Opis](#opis)
 - [Wymagania](#wymagania)
 - [Instalacja](#instalacja)
-- [Uruchomienie](#uruchomienie)
-- [Struktura projektu](#struktura-projektu)
-- [Autor](#autor)
 
 ## Opis
 
