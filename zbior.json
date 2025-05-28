@@ -1,0 +1,221 @@
+[
+    {
+        "tytul": "Pianista",
+        "gatunki": [ "dramat", "biograficzny", "wojenny", "historyczny" ],
+        "czasTrwania": 150,
+        "tematyka": [ "II Wojna Światowa", "Holokaust", "przetrwanie", "muzyka" ],
+        "styl": "realistyczny",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Szeregowiec Ryan",
+        "gatunki": [ "wojenny", "dramat", "akcja", "historyczny" ],
+        "czasTrwania": 169,
+        "tematyka": [ "II Wojna Światowa", "lądowanie w Normandii", "misja ratunkowa", "braterstwo" ],
+        "styl": "realistyczny",
+        "jezyk": "Angielski",
+        "intensywnosc": 9,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Lista Schindlera",
+        "gatunki": [ "dramat", "biograficzny", "historyczny", "wojenny" ],
+        "czasTrwania": 195,
+        "tematyka": [ "II Wojna Światowa", "Holokaust", "bohaterstwo", "moralność" ],
+        "styl": "dokumentalizowany",
+        "jezyk": "Angielski",
+        "intensywnosc": 9,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Czas Apokalipsy",
+        "gatunki": [ "wojenny", "dramat", "psychologiczny" ],
+        "czasTrwania": 153,
+        "tematyka": [ "Wojna w Wietnamie", "szaleństwo wojny", "moralny upadek" ],
+        "styl": "epicki",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "Wojna w Wietnamie"
+    },
+
+    {
+        "tytul": "Pluton",
+        "gatunki": [ "wojenny", "dramat" ],
+        "czasTrwania": 120,
+        "tematyka": [ "Wojna w Wietnamie", "utrata niewinności", "konflikty wewnętrzne" ],
+        "styl": "realistyczny",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "Wojna w Wietnamie"
+    },
+
+    {
+        "tytul": "Most na rzece Kwai",
+        "gatunki": [ "wojenny", "dramat", "przygodowy" ],
+        "czasTrwania": 161,
+        "tematyka": [ "II Wojna Światowa", "obóz jeniecki", "obsesja", "honor" ],
+        "styl": "epicki",
+        "jezyk": "Angielski",
+        "intensywnosc": 7,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Upadek",
+        "gatunki": [ "dramat", "biograficzny", "historyczny", "wojenny" ],
+        "czasTrwania": 156,
+        "tematyka": [ "II Wojna Światowa", "ostatnie dni Hitlera", "nazizm", "hitlerowcy" ],
+        "styl": "realistyczny",
+        "jezyk": "Niemiecki",
+        "intensywnosc": 8,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Katyń",
+        "gatunki": [ "dramat", "historyczny", "wojenny" ],
+        "czasTrwania": 118,
+        "tematyka": [ "II Wojna Światowa", "Zbrodnia Katyńska", "propaganda", "cierpienie" ],
+        "styl": "realistyczny",
+        "jezyk": "Polski",
+        "intensywnosc": 9,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+    
+    {
+        "tytul": "Życie na podsłuchu",
+        "gatunki": [ "dramat", "thriller", "polityczny" ],
+        "czasTrwania": 137,
+        "tematyka": [ "Zimna Wojna", "NRD", "Stasi", "inwigilacja" ],
+        "styl": "kameralny",
+        "jezyk": "Niemiecki",
+        "intensywnosc": 7,
+        "okresHistoryczny": "Zimna Wojna"
+    },
+
+    {
+        "tytul": "Hotel Ruanda",
+        "gatunki": [ "dramat", "historyczny", "polityczny", "wojenny" ],
+        "czasTrwania": 121,
+        "tematyka": [ "Ludobójstwo w Rwandzie", "prawa człowieka", "odwaga cywilna" ],
+        "styl": "realistyczny",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "Lata 90. XX wieku"
+    },
+
+    {
+        "tytul": "Argo",
+        "gatunki": [ "thriller", "polityczny", "dramat", "historyczny" ],
+        "czasTrwania": 120,
+        "tematyka": [ "Rewolucja w Iranie", "zakładnicy", "CIA", "operacja specjalna" ],
+        "styl": "pełen napięcia",
+        "jezyk": "Angielski",
+        "intensywnosc": 7,
+        "okresHistoryczny": "Lata 70. XX wieku"
+    },
+
+    {
+        "tytul": "Zero Dark Thirty",
+        "gatunki": [ "thriller", "wojenny", "polityczny", "dramat", "historyczny" ],
+        "czasTrwania": 157,
+        "tematyka": [ "terroryzm", "polowanie na bin Ladena", "CIA" ],
+        "styl": "realistyczny",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "Współczesność (po 2000)"
+    },
+
+    {
+        "tytul": "Lincoln",
+        "gatunki": [ "dramat", "biograficzny", "historyczny", "polityczny" ],
+        "czasTrwania": 150,
+        "tematyka": [ "Wojna Secesyjna USA", "abolicjonizm", "polityka wewnętrzna USA" ],
+        "styl": "kameralny",
+        "jezyk": "Angielski",
+        "intensywnosc": 6,
+        "okresHistoryczny": "Wojna Secesyjna USA"
+    },
+
+    {
+        "tytul": "Gallipoli",
+        "gatunki": [ "wojenny", "dramat", "historyczny" ],
+        "czasTrwania": 110,
+        "tematyka": [ "I Wojna Światowa", "Bitwa o Gallipoli", "przyjaźń", "stracone pokolenie" ],
+        "styl": "epicki",
+        "jezyk": "Angielski",
+        "intensywnosc": 7,
+        "okresHistoryczny": "I Wojna Światowa"
+    },
+
+    {
+        "tytul": "Chwała",
+        "gatunki": [ "wojenny", "dramat", "historyczny" ],
+        "czasTrwania": 122,
+        "tematyka": [ "Wojna Secesyjna USA", "rasizm", "afroamerykańscy żołnierze" ],
+        "styl": "epicki",
+        "jezyk": "Angielski",
+        "intensywnosc": 8,
+        "okresHistoryczny": "Wojna Secesyjna USA"
+    },
+
+    {
+        "tytul": "JFK",
+        "gatunki": [ "thriller", "polityczny", "dramat", "historyczny", "biograficzny" ],
+        "czasTrwania": 189,
+        "tematyka": [ "Zabójstwo Kennedy'ego", "teorie spiskowe", "dochodzenie" ],
+        "styl": "dokumentalizowany",
+        "jezyk": "Angielski",
+        "intensywnosc": 7,
+        "okresHistoryczny": "Lata 60. XX wieku"
+    },
+
+    {
+        "tytul": "Good Bye, Lenin!",
+        "gatunki": [ "komediodramat", "polityczny", "historyczny" ],
+        "czasTrwania": 121,
+        "tematyka": [ "Upadek Muru Berlińskiego", "zjednoczenie Niemiec", "nostalgia", "rodzina" ],
+        "styl": "satiryczny",
+        "jezyk": "Niemiecki",
+        "intensywnosc": 5,
+        "okresHistoryczny": "Przełom lat 80. i 90. XX wieku"
+    },
+
+    {
+        "tytul": "Kanał",
+        "gatunki": [ "wojenny", "dramat", "historyczny" ],
+        "czasTrwania": 95,
+        "tematyka": [ "II Wojna Światowa", "Powstanie Warszawskie", "walka o przetrwanie" ],
+        "styl": "realistyczny",
+        "jezyk": "Polski",
+        "intensywnosc": 9,
+        "okresHistoryczny": "II Wojna Światowa"
+    },
+
+    {
+        "tytul": "Ida",
+        "gatunki": [ "dramat", "historyczny" ],
+        "czasTrwania": 82,
+        "tematyka": [ "Polska po II WŚ", "tożsamość", "Holokaust", "stalinizm" ],
+        "styl": "kameralny",
+        "jezyk": "Polski",
+        "intensywnosc": 6,
+        "okresHistoryczny": "Polska po II WŚ (Lata 60.)"
+    },
+
+    {
+        "tytul": "Ostateczne rozwiązanie",
+        "gatunki": [ "dramat", "historyczny", "wojenny", "polityczny" ],
+        "czasTrwania": 96,
+        "tematyka": [ "II Wojna Światowa", "Konferencja w Wannsee", "Holokaust", "biurokracja zła" ],
+        "styl": "kameralny",
+        "jezyk": "Angielski",
+        "intensywnosc": 7,
+        "okresHistoryczny": "II Wojna Światowa"
+    }
+]
